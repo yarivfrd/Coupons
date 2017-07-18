@@ -1,0 +1,6 @@
+{"coupons":[
+  {"name":"Quality Ground Coffee at Aroma Espresso Bar", "description":"The finest coffee at the finest price.", "location":"Tel-Aviv", "price":9, "original-price":16,"thumb":"img/coffee.jpeg"},
+  {"name":"Powerful Laptop PC at KSP Computers & Cellular", "description":"High performance, low price.", "location":"Hadera", "price":2300, "original-price":2800,"thumb":"img/laptop.jpg"},
+  {"name":"Soothing Therapy Massage at Spa Golf", "description":"Relaxing all body massage.", "location":"Caesarea", "price":220, "original-price":300,"thumb":"img/spa.jpg"},
+  {"name":"Cool Headphones at Bug Multisystem", "description":"Amazing sound at an amazing pricing", "location":"Zichron Ya'akov", "price":95, "original-price":140,"thumb":"img/headphones.jpeg"}
+]}
