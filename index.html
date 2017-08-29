@@ -1,20 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
     <title>Coupons - Main</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>
 </head>
+
 <body>
 
-<script>
+    <div data-role="page" id="home">
 
-    var data = '{"firstname":"haim","lastname":"michael"}';
-    var ob = JSON.parse(data);
-    document.writeln("<br>firstname:"+ob.firstname);
-    document.writeln("<br>lastname:"+ob.lastname);
+        <div data-role="header">
+            <h1>Coupons Platform</h1>
+        </div>
 
-</script>
+        <div data-role="content">
+            <ul class="coupon-list" data-role="listview"></ul>
+        </div>
 
+    </div>
+
+    <script src="main.js"></script>
 </body>
+
 </html>
