@@ -1,2 +1,2 @@
 # Coupons
-Get Coupons!
+Best deals around!
