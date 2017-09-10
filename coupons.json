@@ -1,6 +1,103 @@
-{"coupons":[
-  {"id":"coffee", "name":"Quality Ground Coffee at Aroma Espresso Bar", "description":"The finest coffee at the finest price.", "location":"Tel-Aviv", "price":9, "original-price":16,"thumb":"img/coffee.jpg"},
-  {"id":"computers", "name":"Powerful Laptop PC at KSP Computers & Cellular", "description":"High performance, low price.", "location":"Hadera", "price":2300, "original-price":2800,"thumb":"img/laptop.jpg"},
-  {"id":"spa", "name":"Soothing Therapy Massage at Spa Golf", "description":"Relaxing all body massage.", "location":"Caesarea", "price":220, "original-price":300,"thumb":"img/spa.jpg"},
-  {"id":"accessories", "name":"Cool Headphones at Bug Multisystem", "description":"Amazing sound at an amazing pricing", "location":"Zichron Ya'akov", "price":95, "original-price":140,"thumb":"img/headphones.jpeg"}
-]}
+{
+  "coupons": [{
+      "id": "coffee",
+      "name": "Quality Ground Coffee at Aroma Espresso Bar",
+      "description": "The finest coffee at the finest price.",
+      "location": "Tel-Aviv",
+      "coords": {"lat": 32.0980408, "long": 34.7738113},
+      "price": 9,
+      "original-price": 16,
+      "thumb": "img/coffee.jpg"
+    },
+    {
+      "id": "computers",
+      "name": "Powerful Laptop PC at KSP Computers & Cellular",
+      "description": "High performance, low price.",
+      "location": "Hadera",
+      "coords": {"lat": 32.4388966, "long": 34.9102298},
+      "price": 2300,
+      "original-price": 2800,
+      "thumb": "img/laptop.jpg"
+    },
+    {
+      "id": "spa",
+      "name": "Soothing Therapy Massage at Spa Golf",
+      "description": "Relaxing all body massage.",
+      "location": "Caesarea",
+      "coords": {"lat": 32.501789, "long": 34.905949},
+      "price": 220,
+      "original-price": 300,
+      "thumb": "img/spa.jpg"
+    },
+    {
+      "id": "accessories",
+      "name": "Cool Headphones at Bug Multisystem",
+      "description": "Amazing sound at an amazing pricing",
+      "location": "Zichron Ya'akov",
+      "coords": {"lat": 32.4481973, "long": 34.9552939},      
+      "price": 95,
+      "original-price": 140,
+      "thumb": "img/headphones.jpeg"
+    },
+    {
+      "id": "offroad",
+      "name": "Crazy Fun Offroad Ride at Gilboa Offroad",
+      "description": "An adrenaline filled experience",
+      "location": "Gilboa Heights",
+      "coords": {"lat": 32.544224, "long": 35.353013},            
+      "price": 120,
+      "original-price": 220,
+      "thumb": "img/offroad.jpg"
+    },
+    {
+      "id": "restaurant",
+      "name": "Romantic Dinner for Two at Amore Mio",
+      "description": "Delicious italin cuisine",
+      "location": "Tel Aviv 2",
+      "coords": {"lat": 32.0834825, "long": 34.7816206},      
+      "price": 120,
+      "original-price": 170,
+      "thumb": "img/restaurant.jpg"
+    },
+    {
+      "id": "zimmer",
+      "name": "Peacful Vacation at Metula Zimmers",
+      "description": "A tranquil experience",
+      "location": "Metula",
+      "coords": {"lat": 33.2819562, "long": 35.5762947},    
+      "price": 380,
+      "original-price": 450,
+      "thumb": "img/zimmer.jpg"
+    },
+    {
+      "id": "pub",
+      "name": "Boutiqe Beers at Blues Kna'ani",
+      "description": "A variety of boutiqe beers",
+      "location": "Pardes Hanna",
+      "coords": {"lat": 32.4712179,"long": 34.9899659},
+      "price": 20,
+      "original-price": 35,
+      "thumb": "img/pub.jpg"
+    },
+    {
+      "id": "horses",
+      "name": "Romantic Horseride for Two at Giv'at Ada Stables",
+      "description": "A special journy thorugh the oak forest",
+      "location": "Giv'at Ada",
+      "coords": {"lat": 32.5199731, "long": 34.9549547},
+      "price": 160,
+      "original-price": 200,
+      "thumb": "img/horseride.jpg"
+    },
+    {
+      "id": "movie",
+      "name": "VIP Movie Tickets at Yes Planet",
+      "description": "Thrilling cinema exprience",
+      "location": "Haifa",
+      "coords": {"lat": 32.7936601, "long": 35.0382705},      
+      "price": 20,
+      "original-price": 40,
+      "thumb": "img/cinema.jpg"
+    }
+  ]
+}
